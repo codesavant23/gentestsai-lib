@@ -1,0 +1,1 @@
+class WrongReportTypeError(Exception):	"""		Represents a (non-exiting) exception that occurs when a coverage.py		report of an unsupported type is provided	"""	pass

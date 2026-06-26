@@ -1,0 +1,1 @@
+from enum import Enum as PythonEnumeratorclass ECoverageReportType(PythonEnumerator):	"""		Represents a report type supported by coverage.py	"""		HTML = 0,	XML = 1,	JSON = 2,	ANNOTATE = 3,	LCOV = 4

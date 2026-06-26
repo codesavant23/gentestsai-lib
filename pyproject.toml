@@ -1,0 +1,15 @@
+[project]
+name = "gentestsai-lib"
+version = "1.0.0"
+requires-python = ">=3.10"
+dependencies = []
+license = "LicenseRef-Custom-SA"
+license-files = ["LICENSE"]
+
+authors = [
+    { name = "Filippo Mecozzi (codesavant23)", email = "codesavant23@proton.me" }
+]
+
+maintainers = [
+    { name = "Filippo Mecozzi (codesavant23)" }
+]

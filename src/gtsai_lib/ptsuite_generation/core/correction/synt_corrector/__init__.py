@@ -1,0 +1,1 @@
+from ._private.ptsuite_synt_corrector import PtsuiteSyntacticCorrector

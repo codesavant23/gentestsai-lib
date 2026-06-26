@@ -1,0 +1,175 @@
+# Custom Source-Available License v1.0 Definition
+
+> This license is inspired by the structure of the Business Source License (BSL) 1.1 by MariaDB, but it is NOT the Business Source License and MUST NOT be referred to as such.
+>
+> This is a custom proprietary source-available license intended for projects that want public source visibility while permanently restricting certain commercial uses.
+
+---
+
+# Custom Source-Available License v1.0
+
+## 1. Definitions
+
+**“Licensor”** means the copyright owner or entity authorized by the copyright owner that is granting this License.
+
+**“Licensed Work”** means the software, source code, binaries, documentation, configuration files, and related materials distributed under this License.
+
+**“Production Use”** means any use of the Licensed Work:
+- in a commercial environment,
+- for generating revenue,
+- for providing services to third parties,
+- as part of a SaaS, hosted platform, cloud service, or managed service,
+- inside an organization with more than the permitted number of users,
+- or in any environment not explicitly permitted under the Additional Use Grant.
+
+**“Source Code”** means the preferred form of the Licensed Work for making modifications.
+
+---
+
+## 2. Copyright
+
+Copyright (c) 2026 Filippo Mecozzi (codesavant23)
+
+All rights reserved.
+
+---
+
+## 3. Licensed Work
+
+The Licensed Work, object of this license, is composed by the following software products:
+	- GenTestsAILib Python library
+
+The Licensed Work also includes all associated source code, binaries, documentation, configuration files, APIs, diagrams, schemas, visual assets, 
+logos, branding elements, trademarks, user interface components, and any related materials distributed by the Licensor under this License of all 
+products listed.
+
+All intellectual property rights related to the Licensed Work remain exclusively owned by the Licensor unless explicitly stated otherwise.
+
+---
+
+## 4. License Grant
+
+Subject to the terms and conditions of this License, the Licensor grants you a limited, non-exclusive, non-transferable, revocable license to:
+
+- view and access the Source Code;
+- download and compile the Licensed Work;
+- modify the Licensed Work for internal use;
+- create derivative works for internal use;
+- use the Licensed Work only as permitted under the Additional Use Grant.
+
+No ownership rights are transferred under this License.
+
+---
+
+## 5. Additional Use Grant
+
+The following uses are permitted without obtaining a separate commercial license:
+
+- personal use;
+- educational use;
+- research use;
+- non-commercial development;
+- internal evaluation;
+- organizations with fewer than 5 employees;
+
+Any use not explicitly permitted is prohibited unless separately authorized in writing, and approved, by the Licensor.
+
+---
+
+## 6. Commercial Restrictions
+
+Without prior written permission from the Licensor, you MAY NOT:
+
+- sell the Licensed Work;
+- offer the Licensed Work as a hosted or managed service;
+- sublicense the Licensed Work;
+- provide paid support or consulting centered primarily on the Licensed Work;
+- use the Licensed Work in a commercial production environment beyond the scope of the Additional Use Grant;
+- remove copyright or license notices;
+- represent the Licensed Work as your own;
+- relicense the Licensed Work under another license.
+
+---
+
+## 7. Distribution
+
+You may distribute unmodified copies of the Licensed Work only if all the following conditions are met:
+
+- this License is included in full;
+- all copyright notices remain intact;
+- recipients are informed that the Licensed Work is NOT open-source;
+- no fees are charged specifically for the Licensed Work unless authorized.
+
+Distribution of modified versions requires prior written authorization from the Licensor.
+
+---
+
+## 8. Derivative Works and Contributions
+
+You may create, modify, fork, and publicly distribute derivative works of the Licensed Work, provided that:
+
+- all derivative works remain licensed exclusively under this License;
+- this License and all copyright notices are preserved;
+- no commercial rights are granted or implied;
+- derivative works are distributed free of charge unless explicitly authorized by the Licensor.
+
+Authors of derivative works retain ownership of their own contributions.
+
+However, by contributing code, documentation, or other materials to the Licensed Work, contributors grant the Licensor a perpetual, worldwide, non-exclusive, 
+royalty-free license to use, reproduce, modify, and distribute such contributions as part of the Licensed Work.
+
+Contributors do NOT become Licensors of the Licensed Work and may not independently grant commercial licenses for the Licensed Work as a whole.
+
+Exclusive rights for commercial licensing of the Licensed Work remain reserved to the Licensor.
+
+---
+
+## 9. No Open-Source Conversion
+
+The Licensed Work does NOT automatically convert to any open-source license at any future date.
+
+Any future relicensing of the Licensed Work is solely at the discretion of the Licensor.
+
+---
+
+## 10. Trademarks
+
+This License does not grant any rights to use the Licensor's trademarks, logos, trade names, or branding.
+
+---
+
+## 11. Termination
+
+If you violate any term of this License, your rights under this License terminate automatically.
+
+Upon termination, you must immediately:
+- stop using the Licensed Work;
+- destroy all copies in your possession;
+- cease distribution of the Licensed Work and derivative works.
+
+---
+
+## 12. Disclaimer of Warranty
+
+THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+---
+
+## 13. Limitation of Liability
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE LICENSED WORK OR THE USE OF THE LICENSED WORK.
+
+---
+
+## 14. Governing Law
+
+This License and any dispute or claim arising out of or in connection with it shall be governed by and construed in accordance with the laws of Italy.
+
+---
+
+## 15. Contact Information
+
+For commercial licensing inquiries or exceptions use one of the following channels:
+
+Email 1 (preferred): codesavant23@proton.me
+Email 2: filippo.mecozzi00@outlook.it

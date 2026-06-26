@@ -1,0 +1,1 @@
+class FocalProjectNotSetError(Exception):	"""		Represents a (non-exiting) exception that occurs when an attempt		is made to write to a "coverage.rc" file without first setting up		a target project	"""	pass
