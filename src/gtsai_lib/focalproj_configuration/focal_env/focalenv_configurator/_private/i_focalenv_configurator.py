@@ -151,7 +151,7 @@ class IFocalEnvConfigurator(ABC):
 
 			Parameters
             ----------
-                wants_dockerignore: bool
+                wants_dockign: bool
                     Optional. Default = `True`. A boolean indicating whether to write a file
                     ".dockerignore" before building the focal environment image.
 					If the specified focal project already has a ".dockerignore" file, it will be

@@ -11,7 +11,7 @@ from ..exceptions import (
 
 class ATransactDockfBuilder(_ABaseDockfBuilder):
 	"""
-		It represents a "transactional" `IDockfBuilder`, meaning it allows you to write
+		Represents a "transactional" `IDockfBuilder`, meaning it allows you to write
         shell command transactions (multiple shell commands executed within a single `RUN` layer).
         
         The implementation technology for storing instructions is specified by the

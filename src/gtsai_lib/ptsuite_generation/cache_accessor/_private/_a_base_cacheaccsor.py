@@ -20,7 +20,7 @@ from ..exceptions import (
 
 class _ABasePtsuiteCacheAccessor(IPtsuiteCacheAccessor):
 	"""
-		It represents a base `IPtsuiteCacheAccessor`, meaning it contains the logic common to all
+		Represents a base `IPtsuiteCacheAccessor`, meaning it contains the logic common to all
 		`IPtsuiteCacheAccessor` instances.
         
         The cache implementation technology is specified by the subclasses of this abstract class.
