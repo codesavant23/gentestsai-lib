@@ -1,6 +1,6 @@
 from typing import List, Tuple, Dict
 from abc import abstractmethod
-from .. import IDockfBuilder
+from .i_dockerfile_builder import IDockfBuilder
 
 # ============ Path Utilities ============ #
 from os.path import sep, altsep

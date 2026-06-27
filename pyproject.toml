@@ -2,7 +2,12 @@
 name = "gentestsai-lib"
 version = "1.0.0"
 requires-python = ">=3.10"
-dependencies = []
+dependencies = [
+	"c23_logger",
+    "llm_access",
+    "docker~=7.1.0",
+    "regex~=2024.11.6"
+]
 license = "LicenseRef-Custom-SA"
 license-files = ["LICENSE"]
 
